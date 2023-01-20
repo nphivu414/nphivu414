@@ -1,1 +1,1 @@
-[![Vu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nphivu414&show_icons=true&theme=dracula)](https://github.com/nphivu414/github-readme-stats)
+[![Vu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nphivu414&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/nphivu414/github-readme-stats)
