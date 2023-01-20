@@ -1,1 +1,1 @@
-[![Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nphivu414&show_icons=true&theme=dracular)](https://github.com/nphivu414/github-readme-stats)
+[![Vu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nphivu414&show_icons=true&theme=dracula)](https://github.com/nphivu414/github-readme-stats)
